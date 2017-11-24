@@ -14,4 +14,6 @@ a basic HTTP 1.0 client with no GUI and very good memory checking...D:
 	readme.txt - this file...
 	client.c  - the software
 	
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 
